@@ -1,0 +1,148 @@
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+H:\FSE Accrediation Case Study 2\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+H:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\appsettings.json
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.exe
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.deps.json
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.json
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.runtimeconfig.dev.json
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\ref\AuthorizationMicroservice.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\AuthorizationMicroservice.pdb
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Use Case 3\AuthorizationMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.AssemblyReference.cache
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfoInputs.cache
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.AssemblyInfo.cs
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CoreCompileInputs.cache
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.Manifest.cache
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\staticwebassets\AuthorizationMicroservice.StaticWebAssets.xml
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\scopedcss\bundle\AuthorizationMicroservice.styles.css
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.RazorTargetAssemblyInfo.cache
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.csproj.CopyComplete
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.dll
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\ref\AuthorizationMicroservice.dll
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.pdb
+D:\Use Case 3\AuthorizationMicroservice\obj\Debug\net5.0\AuthorizationMicroservice.genruntimeconfig.cache
