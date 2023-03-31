@@ -1,0 +1,287 @@
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\appsettings.Development.json
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\appsettings.json
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.exe
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.deps.json
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.json
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.dev.json
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\ref\TweetMicroservice.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.pdb
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\DnsClient.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\MongoDB.Bson.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\MongoDB.Driver.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\SharpCompress.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.AssemblyReference.cache
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfoInputs.cache
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfo.cs
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CoreCompileInputs.cache
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.Manifest.cache
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.xml
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\scopedcss\bundle\TweetMicroservice.styles.css
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.RazorTargetAssemblyInfo.cache
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CopyComplete
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\ref\TweetMicroservice.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.pdb
+F:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.genruntimeconfig.cache
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\appsettings.Development.json
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\appsettings.json
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.exe
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.deps.json
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.json
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.dev.json
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\ref\TweetMicroservice.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.pdb
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\DnsClient.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\MongoDB.Bson.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\MongoDB.Driver.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\MongoDB.Driver.Core.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\MongoDB.Libmongocrypt.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\SharpCompress.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\linux\native\libsnappy64.so
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\linux\native\libzstd.so
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\osx\native\libsnappy64.dylib
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\osx\native\libzstd.dylib
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\native\libzstd.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\native\snappy32.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\native\snappy64.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\linux\native\libmongocrypt.so
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\osx\native\libmongocrypt.dylib
+H:\FSE Accrediation Case Study 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\native\mongocrypt.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.AssemblyReference.cache
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfoInputs.cache
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfo.cs
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CoreCompileInputs.cache
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cs
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cache
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.Manifest.cache
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.xml
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\scopedcss\bundle\TweetMicroservice.styles.css
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.RazorTargetAssemblyInfo.cache
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CopyComplete
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\ref\TweetMicroservice.dll
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.pdb
+H:\FSE Accrediation Case Study 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.genruntimeconfig.cache
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.AssemblyReference.cache
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfoInputs.cache
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfo.cs
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CoreCompileInputs.cache
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cs
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cache
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.dll
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\ref\TweetMicroservice.dll
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.pdb
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\appsettings.Development.json
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\appsettings.json
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.exe
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.deps.json
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.json
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.dev.json
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\ref\TweetMicroservice.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.pdb
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Humanizer.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+G:\Use Case 2\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.Manifest.cache
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.xml
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\scopedcss\bundle\TweetMicroservice.styles.css
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.RazorTargetAssemblyInfo.cache
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CopyComplete
+G:\Use Case 2\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.genruntimeconfig.cache
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\appsettings.Development.json
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\appsettings.json
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.exe
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.deps.json
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.json
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.dev.json
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\ref\TweetMicroservice.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.pdb
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Humanizer.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+H:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.AssemblyReference.cache
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfoInputs.cache
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfo.cs
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CoreCompileInputs.cache
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cs
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cache
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.Manifest.cache
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.xml
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\scopedcss\bundle\TweetMicroservice.styles.css
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.RazorTargetAssemblyInfo.cache
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CopyComplete
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.dll
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\ref\TweetMicroservice.dll
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.pdb
+H:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.genruntimeconfig.cache
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\appsettings.json
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.exe
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.deps.json
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.json
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.runtimeconfig.dev.json
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\ref\TweetMicroservice.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\TweetMicroservice.pdb
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Humanizer.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Use Case 3\TweetMicroservice\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.AssemblyReference.cache
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfoInputs.cache
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.AssemblyInfo.cs
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CoreCompileInputs.cache
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.Manifest.cache
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\staticwebassets\TweetMicroservice.StaticWebAssets.xml
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\scopedcss\bundle\TweetMicroservice.styles.css
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.RazorTargetAssemblyInfo.cache
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.csproj.CopyComplete
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.dll
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\ref\TweetMicroservice.dll
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.pdb
+D:\Use Case 3\TweetMicroservice\obj\Debug\net5.0\TweetMicroservice.genruntimeconfig.cache
