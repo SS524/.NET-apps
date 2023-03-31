@@ -1,0 +1,170 @@
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\appsettings.Development.json
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\appsettings.json
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.exe
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.deps.json
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.json
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.dev.json
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\ref\PortalMicroservice.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.pdb
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.AssemblyReference.cache
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfoInputs.cache
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfo.cs
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CoreCompileInputs.cache
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cs
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cache
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.Manifest.cache
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.xml
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\scopedcss\bundle\PortalMicroservice.styles.css
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.RazorTargetAssemblyInfo.cache
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CopyComplete
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\ref\PortalMicroservice.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.pdb
+F:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.genruntimeconfig.cache
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+F:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\appsettings.Development.json
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\appsettings.json
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.exe
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.deps.json
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.json
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.dev.json
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\ref\PortalMicroservice.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.pdb
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.AssemblyReference.cache
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfoInputs.cache
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfo.cs
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CoreCompileInputs.cache
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cs
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cache
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.Manifest.cache
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.xml
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\scopedcss\bundle\PortalMicroservice.styles.css
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.RazorTargetAssemblyInfo.cache
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CopyComplete
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\ref\PortalMicroservice.dll
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.pdb
+H:\FSE Accrediation Case Study 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.genruntimeconfig.cache
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.AssemblyReference.cache
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfoInputs.cache
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfo.cs
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CoreCompileInputs.cache
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cs
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cache
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.dll
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\ref\PortalMicroservice.dll
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.pdb
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\appsettings.Development.json
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\appsettings.json
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.exe
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.deps.json
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.json
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.dev.json
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\ref\PortalMicroservice.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.pdb
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\Use Case 2\PortalMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.Manifest.cache
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.xml
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\scopedcss\bundle\PortalMicroservice.styles.css
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.RazorTargetAssemblyInfo.cache
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CopyComplete
+G:\Use Case 2\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.genruntimeconfig.cache
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\appsettings.Development.json
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\appsettings.json
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.exe
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.deps.json
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.json
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.dev.json
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\ref\PortalMicroservice.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.pdb
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.AssemblyReference.cache
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfoInputs.cache
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfo.cs
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CoreCompileInputs.cache
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cs
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cache
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.Manifest.cache
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.xml
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\scopedcss\bundle\PortalMicroservice.styles.css
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.RazorTargetAssemblyInfo.cache
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CopyComplete
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.dll
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\ref\PortalMicroservice.dll
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.pdb
+H:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.genruntimeconfig.cache
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\appsettings.Development.json
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\appsettings.json
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.exe
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.deps.json
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.json
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.runtimeconfig.dev.json
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\ref\PortalMicroservice.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\PortalMicroservice.pdb
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Use Case 3\PortalMicroservice\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.AssemblyReference.cache
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfoInputs.cache
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.AssemblyInfo.cs
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CoreCompileInputs.cache
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cs
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.MvcApplicationPartsAssemblyInfo.cache
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.Manifest.cache
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\staticwebassets\PortalMicroservice.StaticWebAssets.xml
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\scopedcss\bundle\PortalMicroservice.styles.css
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.RazorTargetAssemblyInfo.cache
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.csproj.CopyComplete
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.dll
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\ref\PortalMicroservice.dll
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.pdb
+D:\Use Case 3\PortalMicroservice\obj\Debug\net5.0\PortalMicroservice.genruntimeconfig.cache
